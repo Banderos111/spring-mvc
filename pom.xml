@@ -21,7 +21,7 @@
     <lombok.version>1.18.8</lombok.version>
     <mysql.version>5.1.46</mysql.version>
     <validation-api.version>2.0.0.Final</validation-api.version>
-    <hibernate-validator.version>6.0.2.Final</hibernate-validator.version>
+    <hibernate-validator.version>6.1.0.Final</hibernate-validator.version>
   </properties>
 
   <dependencies>
